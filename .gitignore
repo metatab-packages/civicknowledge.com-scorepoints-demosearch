@@ -9,3 +9,5 @@ _packages
 *.pyc
 .DS_Store
 __pycache__/
+
+data/business_points.csv
